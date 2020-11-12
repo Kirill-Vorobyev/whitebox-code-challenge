@@ -9,6 +9,8 @@
 
 ## Challenge Prompt
 
+Original Repository: https://github.com/whitebox-co/code-challenge-excel
+
 Write a NodeJS Script that reads data from a SQL Database of your choice, filters that data to only include the data for one specific client, and converts that data into a multi-tabbed Excel spreadsheet (sample-output.xlsx). 
 
  - The `data.sql.gz` files in this repository contains the SQL data to use.
