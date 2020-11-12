@@ -1,0 +1,17 @@
+{
+  "name": "whitebox-code-challenge-excel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kirill Vorobyev",
+  "license": "ISC",
+  "devDependencies": {
+    "mysql": "^2.18.1",
+    "xlsx-io": "^0.2.4"
+  }
+}
